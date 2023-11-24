@@ -1,0 +1,14 @@
+.projects{
+    background-color: aquamarine;    
+    display: flex;
+    flex-direction: column;
+}
+.projects__container{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+article {
+    background-color: beige;
+    
+}

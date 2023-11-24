@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Patua+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Patua One', serif;
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  section {
+    border-left: 2px solid rgb(94, 17, 8);
+    border-right: 2px solid rgb(94, 17, 8);
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 2em;
+  }
+  
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+
+img {
+    max-width: 300px; 
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+      
+  
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  
